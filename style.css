@@ -21,9 +21,9 @@ body {
     height: 100vh;
     width: 100vw;
     grid-template-areas:
-        "imagen1 imagen1 work twitter mapa mapa"
-        "posts posts facebook imagen2 mapa mapa"
-        "posts posts trending trending imagen3 imagen3";
+        "imagen1 imagen1 work      twitter  mapa     mapa"
+        "posts   posts   facebook  imagen2  mapa     mapa"
+        "posts   posts   trending  trending imagen3  imagen3";
 }
 
 .grid__item {
